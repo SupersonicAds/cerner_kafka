@@ -1,5 +1,7 @@
 Change Log
 ==========
+[2.6.1 - 07-08-2018] (NOY)
+changing log4j properties
 
 [2.5.0 - 08-16-2017](https://github.com/cerner/cerner_kafka/issues?milestone=10&state=closed)
 ---------------------------------------------------------------------------------------------
